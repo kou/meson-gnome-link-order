@@ -1,0 +1,5 @@
+/install
+/lib-dep/build
+/lib/build
+/lib/meson-sample.c
+/lib/meson-sample.h

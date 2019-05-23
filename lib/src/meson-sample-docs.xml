@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+               "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<book id="index" xmlns:xi="http://www.w3.org/2003/XInclude">
+  <bookinfo>
+    <title>Meson Sample Reference Manual</title>
+    <releaseinfo>
+      for Meson Sample 1.0.
+    </releaseinfo>
+  </bookinfo>
+
+  <part>
+    <title>Meson Sample</title>
+    <xi:include href="xml/meson-sample.xml"/>
+  </part>
+</book>
